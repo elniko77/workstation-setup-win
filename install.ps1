@@ -20,5 +20,8 @@ Set-ExecutionPolicy Unrestricted -Force
 # Install applications
 . "$env:USERPROFILE\workstation-setup-win\scripts\apps.ps1"
 
+# Install wsl2
+. "$env:USERPROFILE\workstation-setup-win\scripts\wsl2.ps1"
+
 # Install applicationsclear
 #. "$env:USERPROFILE\workstation-setup-win\scripts\apps.ps1"
