@@ -29,6 +29,7 @@ $applicationList = @(
 	"Microsoft.GetHelp"
 	"Microsoft.Messaging"
 	"*Minecraft*"
+    "*Todos*"
 	"Microsoft.OneConnect"
 	"Microsoft.WindowsPhone"
 	"Microsoft.WindowsSoundRecorder"
