@@ -18,4 +18,7 @@ Set-ExecutionPolicy Unrestricted -Force
 . "$env:USERPROFILE\workstation-setup-win\scripts\remove-default-apps.ps1"
 
 # Install applications
+. "$env:USERPROFILE\workstation-setup-win\scripts\apps.ps1"
+
+# Install applicationsclear
 #. "$env:USERPROFILE\workstation-setup-win\scripts\apps.ps1"
