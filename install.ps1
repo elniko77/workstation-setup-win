@@ -14,5 +14,8 @@ Set-ExecutionPolicy Unrestricted -Force
 # Set windows desktop preferences (theme, file explorer, etc)
 . "$env:USERPROFILE\workstation-setup-win\scripts\winpreferences.ps1"
 
+# Remove default apps
+. "$env:USERPROFILE\workstation-setup-win\scripts\remove-default-apps.ps1"
+
 # Install applications
 #. "$env:USERPROFILE\workstation-setup-win\scripts\apps.ps1"
