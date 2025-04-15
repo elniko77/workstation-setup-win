@@ -35,6 +35,7 @@ $applicationList = @(
 	"Microsoft.WindowsSoundRecorder"
 	"*Solitaire*"
 	"Microsoft.Office.Sway"
+    "Clipchamp.Clipchamp"
 	"Microsoft.XboxApp"
 	"Microsoft.XboxIdentityProvider"
 	"Microsoft.ZuneMusic"
